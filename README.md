@@ -6,7 +6,7 @@ A ccollection of projects build with a Raspberry PI 4B and a LCD module.
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Key-Notes](#key-notes)
-- 
+
 ## Getting Started
 In order to correctly correct the LCD module to the raspberry pi, follow the GPIO layout and connect the cables of your LCD module correctly to the LCD connection pins. You will need four female to female jumper cables.
 Image of GPIO layout for reference:
@@ -19,7 +19,7 @@ Image of LCD GND, VCC, SDA, and SCL pins for reference:
 
 Once its connected:
 - Clone this repository using git clone.
-- Run the installation script by using the command 'sudo sh install.sh' in the root directory of the cloned repository.
+- Run the installation script by using the command `sudo sh install.sh` in the root directory of the cloned repository.
 - Run the test file.
 - If nothing displays on the LCD screen, troubleshoot the connection ports of check for faulty wires.
 
