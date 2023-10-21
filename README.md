@@ -17,7 +17,11 @@ Image of LCD GND, VCC, SDA, and SCL pins for reference:
 
 ![PMS9F-376184231](https://github.com/cruzjuan298/LCD-Projects/assets/105023616/97897347-4d99-4d14-82ef-b79eef7bdc44)
 
-Once its connected, clone this repository using git clone and run the test file. If nothing displays on the LCD screen, troubleshoot the connection ports of check for faulty wires.
+Once its connected:
+- Clone this repository using git clone.
+- Run the installation script by using the command 'sudo sh install.sh' in the root directory of the cloned repository.
+- Run the test file.
+- If nothing displays on the LCD screen, troubleshoot the connection ports of check for faulty wires.
 
 
 ## Usage
